@@ -1,7 +1,7 @@
 # TextUtils
-####v1.0
+#### v1.0
 
-#####lunes, 06. agosto 2018 05:59 
+##### lunes, 06. agosto 2018 05:59 
 
 Pequeña aplicación utilizada para realizar diferentes tareas relativas al manejo de archivos de texto.
 
